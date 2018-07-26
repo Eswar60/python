@@ -25,4 +25,3 @@
 #f.write("add new line by using file handling")
 
 #f = open("reddy.txt", "x") # create a file
-
