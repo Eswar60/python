@@ -8,7 +8,7 @@
 #    print ("a is equal to b")
 
 
-# while loop execute a set of statements as log as the condition is true.
+# while loop execute a set of statements as long as the condition is true.
 
 #red = 6
 #while red < 16:
